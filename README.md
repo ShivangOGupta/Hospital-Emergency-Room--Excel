@@ -39,6 +39,13 @@ The dashboard provides a monthly summary for hospital administrators, data analy
 
 ❗Tracks delays, admissions, and referrals efficiently
 
+![Screenshot (100)](https://github.com/user-attachments/assets/2f2478e5-ea86-4dbd-9404-767423d21aa8)
+![Screenshot (101)](https://github.com/user-attachments/assets/98f5986a-3aa9-4a3b-8a35-aa50f3aaafec)
+![Screenshot (102)](https://github.com/user-attachments/assets/c8cd739b-b72c-41ce-8cc1-54c90997ddd7)
+
+
+
+
  
 
  

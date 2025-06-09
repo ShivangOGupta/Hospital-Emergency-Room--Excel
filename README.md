@@ -19,7 +19,6 @@ Not Admitted
 ⌛ Patient Attendance
 
 On Time
-
 Delayed 
 
 Pie chart visualization helps identify patient flow issues.

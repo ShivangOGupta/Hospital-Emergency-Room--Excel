@@ -39,11 +39,11 @@ The dashboard provides a monthly summary for hospital administrators, data analy
 
 ❗Tracks delays, admissions, and referrals efficiently
 
-## Showing the daily trends of  👥 Total Patients     ⏱️ Average Wait Time        ⭐ Patient Satisfaction Score 
+## Showing the daily trends of  👥Total Patients    ⏱️Average Wait Time      ⭐Patient Satisfaction Score 
 
-    ![Screenshot (103)](https://github.com/user-attachments/assets/68df72ce-23ba-499a-a26a-b2b8fdc0b51d)
-    ![Screenshot (101)](https://github.com/user-attachments/assets/98f5986a-3aa9-4a3b-8a35-aa50f3aaafec)
-    ![Screenshot (102)](https://github.com/user-attachments/assets/c8cd739b-b72c-41ce-8cc1-54c90997ddd7)
+   ![Screenshot (103)](https://github.com/user-attachments/assets/68df72ce-23ba-499a-a26a-b2b8fdc0b51d)
+   ![Screenshot (101)](https://github.com/user-attachments/assets/98f5986a-3aa9-4a3b-8a35-aa50f3aaafec)
+   ![Screenshot (102)](https://github.com/user-attachments/assets/c8cd739b-b72c-41ce-8cc1-54c90997ddd7)
 
 
 

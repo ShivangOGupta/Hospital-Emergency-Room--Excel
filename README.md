@@ -1,4 +1,4 @@
-# 🏥 Hospital Emergency Room Dashboard - Monthly Report 📊
+# 🏥 Hospital Emergency Room Dashboard - Monthly <p align="centre"> Report 📊 </p>
 
  ![Screenshot (106)](https://github.com/user-attachments/assets/008dc561-1563-417c-a0ee-b6327421a302)
 

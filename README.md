@@ -1,6 +1,7 @@
 # 🏥 Hospital Emergency Room Dashboard - Monthly Report 📊
 
-![Screenshot (79)](https://github.com/user-attachments/assets/18f1a58e-4415-4b19-89ff-12d1cba52b13)
+ ![Screenshot (105)](https://github.com/user-attachments/assets/47f87f6a-d353-4699-91d1-70654c63939f)
+
 
  
 This project presents a comprehensive Emergency Room Dashboard designed to visually monitor and analyze key metrics from a hospital's emergency department.

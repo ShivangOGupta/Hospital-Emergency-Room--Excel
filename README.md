@@ -10,34 +10,34 @@ The dashboard provides a monthly summary for hospital administrators, data analy
 
 ✅ Key Metrics
 
-👥 Total Patients     ⏱️ Average Wait Time        ⭐ Patient Satisfaction Score 
+    👥 Total Patients     ⏱️ Average Wait Time        ⭐ Patient Satisfaction Score 
 
  
 🏨 Admission Status
 
-⭐Admitted    ⭐Not Admitted 
+    ⭐Admitted    ⭐Not Admitted 
 
 ⌛ Patient Attendance
 
-⭐On Time     ⭐Delayed 
+    ⭐On Time     ⭐Delayed 
 
 ❗Pie chart visualization helps identify patient flow issues.
 
-🚻 Gender-wise Distribution
+    🚻 Gender-wise Distribution
 
 ⭐Male         ⭐Female 
 
-🧒👨‍🦳 Age Group Distribution         🩺 Department Referrals
+    🧒👨‍🦳 Age Group Distribution         🩺 Department Referrals
  
 📌 Features
 
-❗Clean, interactive layout with month-wise selection
+    ❗Clean, interactive layout with month-wise selection
 
-❗Easy-to-read charts (bar, pie, donut)
+    ❗Easy-to-read charts (bar, pie, donut)
 
-❗Designed for hospital operational insights
+    ❗Designed for hospital operational insights
 
-❗Tracks delays, admissions, and referrals efficiently
+    ❗Tracks delays, admissions, and referrals efficiently
 
 ##  📈 Daily trends             
    ## 👥 Total Patients 

@@ -5,39 +5,39 @@
  
 This project presents a comprehensive Emergency Room Dashboard designed to visually monitor and analyze key metrics from a hospital's emergency department.
 
-📌 Dashboard Highlights
+📌 Dashboard Highlights ->
 The dashboard provides a monthly summary for hospital administrators, data analysts, or healthcare managers. It includes:
 
-✅ Key Metrics
+##  ✅ Key Metrics
 
-    👥 Total Patients     ⏱️ Average Wait Time        ⭐ Patient Satisfaction Score 
+👥 Total Patients     ⏱️ Average Wait Time        ⭐ Patient Satisfaction Score 
 
  
-🏨 Admission Status
+##  🏨 Admission Status
 
-    ⭐Admitted    ⭐Not Admitted 
+⭐Admitted    ⭐Not Admitted 
 
-⌛ Patient Attendance
+##  ⌛ Patient Attendance
 
-    ⭐On Time     ⭐Delayed 
+⭐On Time     ⭐Delayed 
 
-❗Pie chart visualization helps identify patient flow issues.
+## ❗Pie chart visualization helps identify patient flow issues.
 
-    🚻 Gender-wise Distribution
+🚻 Gender-wise Distribution
 
 ⭐Male         ⭐Female 
 
-    🧒👨‍🦳 Age Group Distribution         🩺 Department Referrals
+🧒👨‍🦳 Age Group Distribution         🩺 Department Referrals
  
-📌 Features
+##  📌 Features
 
-    ❗Clean, interactive layout with month-wise selection
+❗Clean, interactive layout with month-wise selection
 
-    ❗Easy-to-read charts (bar, pie, donut)
+❗Easy-to-read charts (bar, pie, donut)
 
-    ❗Designed for hospital operational insights
+❗Designed for hospital operational insights
 
-    ❗Tracks delays, admissions, and referrals efficiently
+❗Tracks delays, admissions, and referrals efficiently
 
 ##  📈 Daily trends             
    ## 👥 Total Patients 
